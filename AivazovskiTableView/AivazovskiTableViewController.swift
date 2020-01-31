@@ -10,15 +10,7 @@ import UIKit
 
 class AivazovskiTableViewController: UITableViewController {
 
-    var aivazovskiPicture = [
-        "Девятый вал",
-        "Чесменский бой",
-        "Американские суда у скалы Гибралтара",
-        "Чёрное море",
-        "Ночь на Чёрном море",
-        "Корабль среди бурного моря",
-        "Бриг «Меркурий», атакованный двумя турецкими кораблями"
-    ]
+    var aivazovskiPicture = Array.aivazovskiPictureArray
     
     override func viewDidLoad() {
         super.viewDidLoad()

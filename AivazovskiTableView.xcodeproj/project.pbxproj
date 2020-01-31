@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E3478B8123E4847200F00A99 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3478B8023E4847200F00A99 /* Array.swift */; };
 		E371971023D3936F00015B08 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E371970F23D3936F00015B08 /* AppDelegate.swift */; };
 		E371971223D3936F00015B08 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E371971123D3936F00015B08 /* SceneDelegate.swift */; };
 		E371971423D3936F00015B08 /* PictureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E371971323D3936F00015B08 /* PictureViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E3478B8023E4847200F00A99 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
 		E371970C23D3936F00015B08 /* AivazovskiTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AivazovskiTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E371970F23D3936F00015B08 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E371971123D3936F00015B08 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				E371970F23D3936F00015B08 /* AppDelegate.swift */,
 				E371971123D3936F00015B08 /* SceneDelegate.swift */,
 				E371971323D3936F00015B08 /* PictureViewController.swift */,
+				E3478B8023E4847200F00A99 /* Array.swift */,
 				E371972323D3967900015B08 /* AivazovskiTableViewController.swift */,
 				E371971523D3936F00015B08 /* Main.storyboard */,
 				E371971823D3937400015B08 /* Assets.xcassets */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E371972423D3967900015B08 /* AivazovskiTableViewController.swift in Sources */,
+				E3478B8123E4847200F00A99 /* Array.swift in Sources */,
 				E371971423D3936F00015B08 /* PictureViewController.swift in Sources */,
 				E371971023D3936F00015B08 /* AppDelegate.swift in Sources */,
 				E371971223D3936F00015B08 /* SceneDelegate.swift in Sources */,
